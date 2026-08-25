@@ -2,7 +2,7 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=aleph-discord-bot.visitor-badge)
 
-Personal portfolio website built with Next.js 15, featuring Framer Motion animations and Tailwind CSS. The site showcases projects from a JSON data source and includes Spotify integration and structured SEO.
+Personal portfolio website built with Next.js 15, featuring Framer Motion animations and Tailwind CSS. The site showcases projects from a JSON data source and structured SEO.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
