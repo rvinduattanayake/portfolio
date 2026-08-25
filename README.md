@@ -13,7 +13,6 @@ Personal portfolio website built with Next.js 15, featuring Framer Motion animat
 - **Scroll Animations** — Staggered entrance animations on skills, experience, and project sections
 - **Dynamic Project Data** — Projects loaded from a JSON file with category filtering and detail pages
 - **Skeleton & Blur Loading** — Project images load with blur placeholder and skeleton overlay
-- **Spotify Widget** — Real-time "now playing" display on the About page
 - **SEO** — Per-page metadata, OpenGraph tags, and JSON-LD Person structured data
 - **Responsive** — Scales smoothly across browser zoom levels (100%–150%)
 
