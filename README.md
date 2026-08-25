@@ -63,7 +63,7 @@ app/
 │   ├── layout.jsx      # Sidebar
 │   └── page.jsx        # Hero, About, Projects, Contact sections
 ├── about/              # About page
-│   └── components/     # Skills, Experience, Education, Quote, Spotify
+│   └── components/     # Skills, Experience, Education, Quote
 ├── projects/           # Projects listing with filtering
 │   ├── [slug]/         # Dynamic project detail pages
 │   └── archive/        # Full project archive
