@@ -80,7 +80,7 @@ Introduction with full-height scroll sections — Hero, About preview, Projects 
 
 ### About
 
-Detailed bio, skills with category filtering, work experience timeline, education, and Spotify widget.
+Detailed bio, skills with category filtering, work experience timeline, education
 
 ### Projects
 
